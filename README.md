@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nikenyudha
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data, sql, machine learning for advance etc
-- 💞️ I’m looking to collaborate on github
+- 👋 Hi, I’m niken
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning data, statistics, sql, machine learning for advance etc
 - 📫 How to reach me at my gmail nikenyudhaa22@gmail.com
 
 <!---
