@@ -1,7 +1,13 @@
-- 👋 Hi, I’m niken
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data, statistics, sql, machine learning for advance etc
-- 📫 How to reach me at my gmail nikenyudhaa22@gmail.com
+# Hi there, I'm Niken! 👋  
+
+🔍 **Data Enthusiast | Future Data Analyst**  
+📊 Skilled in **SQL, Python, Statistics, Machine Learning**  
+📈 Passionate about **data-driven insights & predictive modeling**  
+🌱 Currently exploring **advanced machine learning & data visualization**  
+
+📬 **Let's Connect!**  
+💌 Email: nikenyudhaa22@gmail.com  
+📚 Check out my projects below!  
 
 <!---
 nikenyudha/nikenyudha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
