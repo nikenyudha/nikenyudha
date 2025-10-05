@@ -1,6 +1,6 @@
 # Hi there, I'm Niken! 👋  
 
-🔍 **Data Enthusiast | Future Data Analyst**  
+🔍 **Data Scientist | Writer**  
 📊 Skilled in **SQL, Python, Statistics, Machine Learning**  
 📈 Passionate about **data-driven insights & predictive modeling**  
 🌱 Currently exploring **advanced machine learning & data visualization**  
