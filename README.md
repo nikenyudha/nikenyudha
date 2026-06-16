@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 # Hi there, I'm Niken Larasati Winasih! 👋  
 🔍 **Data Scientist | Machine Learning & MLOps Enthusiast**  
 📊 Skilled in **SQL, Python, Statistics, Machine Learning, Deep Learning, and MLOps**  
