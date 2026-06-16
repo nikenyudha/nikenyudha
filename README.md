@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi there, I'm Niken Larasati Winasih! 👋  <br><br>🔍 **Data Scientist | Machine Learning & MLOps Enthusiast**  <br>📊 Skilled in **SQL, Python, Statistics, Machine Learning, Deep Learning, and MLOps**  <br>📈 Passionate about **Building Deep Learning & Analytics Projects**  <br>🌱 Currently exploring **advanced deep learning frameworks & MLOps deployment pipelines**  <br><br>---<br><br>### 🛠️ Tech Stack & Skills<br>* **Languages & Databases:** Python, SQL, R<br>* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Statistics, Predictive Modeling<br>* **Deep Learning:** TensorFlow / PyTorch <br>* **MLOps & Deployment:** Docker, Git, MLflow <br><br>📬 **Let's Connect!**  <br>💌 Email: n.larasatiwina@gmail.com <br>💼 LinkedIn: [Niken Larasati Winasih](https://www.linkedin.com/in/niken-larasati-winasih/)  <br>
+# Hi there, I'm Niken Larasati Winasih! 👋  
+🔍 **Data Scientist | Machine Learning & MLOps Enthusiast**  
+📊 Skilled in **SQL, Python, Statistics, Machine Learning, Deep Learning, and MLOps**  
+📈 Passionate about **Building Deep Learning & Analytics Projects**  
+🌱 Currently exploring **advanced deep learning frameworks & MLOps deployment pipelines**  <br><br>---<br><br>
 
 
 ## 🌐 Socials:
